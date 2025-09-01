@@ -8,29 +8,10 @@ This repository contains my solutions to SQL problems from StrataScratch platfor
 
 ## Current Progress
 
-**Problems Solved: 3**
-- Easy: 1 ✅ (Salaries Differences)
-- Medium: 2 ✅ (New Products, Highest Cost Orders)
-- Hard: 0
-
-**Success Rate:** 100%
-
-## Recent Solutions
-
-**🔹 Salaries Differences** (Easy - ID: 10308)  
-*HR Analytics, Compensation Analysis*  
-- Skills: JOINs, MAX aggregation, ABS function
-- Business Context: Pay equity analysis between departments
-
-**🔹 New Products** (Medium - ID: 10318)  
-*Product Analytics, Growth Metrics*  
-- Skills: Year-over-year analysis, Conditional aggregation  
-- Business Context: Product launch velocity tracking
-
-**🔹 Highest Cost Orders** (Medium - ID: 9915)  
-*Customer Analytics, Daily Revenue*  
-- Skills: Window functions, CTEs, Date filtering
-- Business Context: High-value customer identification
+**Problems Solved**
+- Easy: 1 
+- Medium: 2
+- Hard: 1
 
 ## Repository Structure
 
